@@ -1,6 +1,11 @@
-第一行代码
-第二行代码
-第三行代码
-第四行代码一半
-第四个功能
-这是我在github上完成的第五个功能
+<!DOCTYPE html>
+<html>    
+<head>        
+<title>My Sample Project</title>        
+<!-- data-main attribute tells require.js to load             scripts/main.js after require.js loads. -->        
+<script data-main="scripts/main" src="scripts/require.js"></script>    
+</head>    
+<body>        
+<h1>My Sample Project</h1>    
+</body>
+</html>
